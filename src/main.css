@@ -1,0 +1,25 @@
+p{
+    color: red;
+    border-top: black dotted 7px;
+    border-bottom:  black dotted 7px;
+    border-right:  black dotted 7px;
+    border-left:  black dotted 7px;
+}
+h3{
+    color: red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    align-content: center;
+}
+h2{
+    color: rgb(23.14%, 51.37%, 74.12%);
+    height: 100px;
+    width: 50%;
+}
+
+h1{
+    color: yellow;
+    background-image: url(__hijikata_toushirou_gintama_drawn_by_zeroo7x__b65ca038a384348dde50cd2d156cb2d4.png);
+}
